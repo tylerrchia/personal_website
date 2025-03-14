@@ -1,15 +1,27 @@
 ---
-title: "Home"
+title: "Tyler Chia"
+about: 
+  template: trestles
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/tylerrchia
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/tyler-chia/"
+    - text: Email
+      url: "tylerchia@ucla.edu"
+      icon: inbox-fill
+    - text: Resume
+      url: "Tyler_Chia_Resume_.pdf"
+toc: false
 ---
 
-This is a Quarto website.
+## Objective
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-69
-```
+## Experience
 
-```{r}
-"hello"
-```
+## Technical Skills
+
+## Awards & Certifications

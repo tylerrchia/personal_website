@@ -1,16 +1,30 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Tyler Chia",
+    "section": "Education",
+    "text": "Education"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n69\n\n[1] 69\n\n\n\n\"hello\"\n\n[1] \"hello\""
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Tyler Chia",
+    "section": "Experience",
+    "text": "Experience"
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "Tyler Chia",
+    "section": "Technical Skills",
+    "text": "Technical Skills"
+  },
+  {
+    "objectID": "index.html#awards-certifications",
+    "href": "index.html#awards-certifications",
+    "title": "Tyler Chia",
+    "section": "Awards & Certifications",
+    "text": "Awards & Certifications"
   }
 ]

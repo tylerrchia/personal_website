@@ -6,7 +6,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: courses.qmd
+        text: Courses
+        
+  page-footer: 
+    right: "&copy; Tyler Jordan Chia"
 
 format:
   html:
