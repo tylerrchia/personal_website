@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - Tyler_Chia_Resume_.pdf
 
 website:
   navbar:

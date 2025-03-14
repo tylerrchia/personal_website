@@ -16,6 +16,8 @@ about:
 toc: false
 ---
 
+here is my attached resume \[resume\](Tyler_Chia_Resume\_.pdf)
+
 ## Objective
 
 ## Education
