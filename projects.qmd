@@ -1,3 +1,14 @@
 ---
 title: "Projects"
+listing:
+  contents:
+    - "nba_dpoy_project.qmd"
+  sort: false
+  type: grid
+  fields:
+    - title
+    - image
+    - author
+    - date
+  categories: false
 ---

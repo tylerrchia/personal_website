@@ -1,44 +1,100 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Tyler Chia",
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
     "section": "",
-    "text": "here is my attached resume [resume](Tyler_Chia_Resume_.pdf)"
+    "text": "June 2025 | Los Angeles, CA"
   },
   {
-    "objectID": "index.html#objective",
-    "href": "index.html#objective",
-    "title": "Tyler Chia",
-    "section": "Objective",
-    "text": "Objective"
+    "objectID": "experience.html#incoming-data-planning-analyst-intern---lumen-technologies",
+    "href": "experience.html#incoming-data-planning-analyst-intern---lumen-technologies",
+    "title": "Experience",
+    "section": "",
+    "text": "June 2025 | Los Angeles, CA"
+  },
+  {
+    "objectID": "experience.html#sports-science-intern---ucla-football",
+    "href": "experience.html#sports-science-intern---ucla-football",
+    "title": "Experience",
+    "section": "Sports Science Intern - UCLA Football",
+    "text": "Sports Science Intern - UCLA Football\nJanuary 2025 - Present | Los Angeles, CA"
+  },
+  {
+    "objectID": "experience.html#data-consultant---ucla-football",
+    "href": "experience.html#data-consultant---ucla-football",
+    "title": "Experience",
+    "section": "Data Consultant - UCLA Football",
+    "text": "Data Consultant - UCLA Football\nSeptember 2024 - Present | Los Angeles, CA"
+  },
+  {
+    "objectID": "experience.html#data-analyst-intern---riverside-county-district-attorneys-office",
+    "href": "experience.html#data-analyst-intern---riverside-county-district-attorneys-office",
+    "title": "Experience",
+    "section": "Data Analyst Intern - Riverside County District Attorney’s Office",
+    "text": "Data Analyst Intern - Riverside County District Attorney’s Office\nJune 2023 - September 2024 | Riverside, CA"
+  },
+  {
+    "objectID": "experience.html#data-analyst---ucla-bruin-sports-analytics",
+    "href": "experience.html#data-analyst---ucla-bruin-sports-analytics",
+    "title": "Experience",
+    "section": "Data Analyst - UCLA Bruin Sports Analytics",
+    "text": "Data Analyst - UCLA Bruin Sports Analytics\nSeptember 2023 - June 2024 | Los Angeles, CA"
+  },
+  {
+    "objectID": "experience.html#broadcast-operations-assistant---ucla-athletics",
+    "href": "experience.html#broadcast-operations-assistant---ucla-athletics",
+    "title": "Experience",
+    "section": "Broadcast Operations Assistant - UCLA Athletics",
+    "text": "Broadcast Operations Assistant - UCLA Athletics\nNovember 2023 - Present | Los Angeles, CA"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Analyzing the 2024 NBA DPOY Race\n\n\n\nTyler Chia\n\n\nApr 1, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Coursework",
+    "section": "",
+    "text": "Course\nSubject\n\n\n\n\nMATH 31B\nIntregration and Infinite Series\n\n\nMATH 32A\nCalculus of Several Variables\n\n\nMATH 32B\nCalculus of Several Variables\n\n\nMATH 33A\nLinear Algebra and Applications\n\n\nCOM SCI 31\nIntroduction to Computer Science with C++\n\n\nSTATS 15\nIntroduction to Data Science\n\n\nSTATS 20\nStatistical Programming with R\n\n\nSTATS 21\nPython and Other Technologies for Data Science\n\n\nSTATS 100A\nProbability\n\n\nSTATS 100B\nMathematical Statistics\n\n\nSTATS 100C\nLinear Models\n\n\nSTATS 101A\nData Analysis and Regression\n\n\nSTATS 101B\nDesign and Analysis of Experiment\n\n\nSTATS 101C\nStatistical Models and Data Mining\n\n\nSTATS 102A\nComputational Statistics with R\n\n\nSTATS 102B\nComputation and Optimization for Statistics\n\n\nSTATS 112\nStatistics: Window to Understanding Diversity\n\n\nSTATS 140XP\nPractice of Statistical Consulting\n\n\nSTATS 141XP\nPractice of Statistical Consulting"
+  },
+  {
+    "objectID": "projects/nba_dpoy_project.html",
+    "href": "projects/nba_dpoy_project.html",
+    "title": "Analyzing the 2024 NBA DPOY Race",
+    "section": "",
+    "text": "Using Python Machine Learning Algorithms to Determine Who Should Be the True Winner of the 2024 NBA Defensive Player of the Year Award\nRead my analysis here below!\nArticle Link"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Tyler Chia",
     "section": "Education",
-    "text": "Education"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Tyler Chia",
-    "section": "Experience",
-    "text": "Experience"
+    "text": "Education\n\nUniversity of California, Los Angeles, B.S. in Statistics and Data Science\nSeptember 2022 - June 2026"
   },
   {
     "objectID": "index.html#technical-skills",
     "href": "index.html#technical-skills",
     "title": "Tyler Chia",
     "section": "Technical Skills",
-    "text": "Technical Skills"
+    "text": "Technical Skills\nLanguages: Python 3, R, C++, SQL\nTechnologies: GitHub, R Shiny, Microsoft Power BI, Tableau, Microsoft Office, Streamlit, ArcGIS, Jupyter (Lab & Notebook), Visual Studio Code, PyCharm, RStudio, XCode, LaTeX, Overleaf, VBA, Markdown, Quarto"
   },
   {
     "objectID": "index.html#awards-certifications",
     "href": "index.html#awards-certifications",
     "title": "Tyler Chia",
     "section": "Awards & Certifications",
-    "text": "Awards & Certifications"
+    "text": "Awards & Certifications\nIBM - Python for Data Science, AI & Development | Issued September 2023 by Coursera\n\nEagle Scout | Boy Scouts of America | Awarded May 2022\n\nPresidential Volunteer Service Award (Gold) | AmeriCorps | Awarded 2019, 2020, 2021, 2022"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tyler Chia",
+    "section": "",
+    "text": "toc: false"
   }
 ]

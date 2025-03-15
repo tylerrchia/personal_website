@@ -2,28 +2,37 @@
 title: "Tyler Chia"
 about: 
   template: trestles
+  image: headshot.png
   links: 
     - icon: github
       text: Github
       href: https://github.com/tylerrchia
     - text: LinkedIn
       url: "https://www.linkedin.com/in/tyler-chia/"
-    - text: Email
-      url: "tylerchia@ucla.edu"
-      icon: inbox-fill
     - text: Resume
       url: "Tyler_Chia_Resume_.pdf"
 toc: false
 ---
 
-here is my attached resume \[resume\](Tyler_Chia_Resume\_.pdf)
+#### Analytical and detail-oriented student with experience in data analysis, machine learning, and visualization. Seeking to leverage skills in statistical programming and predictive modeling to drive impactful insights and solutions.
 
-## Objective
+## Education					
 
-## Education
+### **University of California, Los Angeles**, B.S. in Statistics and Data Science
 
-## Experience
+September 2022 - June 2026
 
-## Technical Skills
+## Technical Skills							
+
+**Languages:** Python 3, R, C++, SQL							
+
+**Technologies:** GitHub, R Shiny, Microsoft Power BI, Tableau, Microsoft Office, Streamlit, ArcGIS, Jupyter (Lab & Notebook),
+Visual Studio Code, PyCharm, RStudio, XCode, LaTeX, Overleaf, VBA, Markdown, Quarto
 
 ## Awards & Certifications
+
+**IBM - Python for Data Science, AI & Development** \| Issued September 2023 by Coursera\
+
+**Eagle Scout** \| Boy Scouts of America \| Awarded May 2022\
+
+**Presidential Volunteer Service Award (Gold)** \| AmeriCorps \| Awarded 2019, 2020, 2021, 2022

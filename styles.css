@@ -1,1 +1,24 @@
 /* css styles */
+
+/* Change top bar color */
+.navbar {
+    background-color: #000080 !important; /* Change this to any color */
+}
+
+.navbar .navbar-nav .nav-link {
+    color: white !important;
+}
+
+/* Change background color of the page */
+body {
+    background-color: #F5F5F5 !important; /* Light gray, change as needed */
+}
+
+/* Change text color for better contrast */
+body, p {
+    color: #333 !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000080 !important;
+}

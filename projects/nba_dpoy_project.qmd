@@ -1,0 +1,14 @@
+---
+title: "Analyzing the 2024 NBA DPOY Race"
+image: images/Wemby_gobert.jpg
+author: Tyler Chia
+date: April 2024
+---
+
+![](images/Wemby_gobert.jpg){fig-align="center"}
+
+#### Using Python Machine Learning Algorithms to Determine Who Should Be the True Winner of the 2024 NBA Defensive Player of the Year Award
+
+Read my analysis here below!
+
+[Article Link](https://medium.com/@tylerchia/analyzing-the-2024-nba-dpoy-race-7aef34e2f8f9)

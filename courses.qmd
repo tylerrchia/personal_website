@@ -1,3 +1,25 @@
 ---
-title: "Courses"
+title: "Coursework"
 ---
+
+| Course      | Subject                                        |
+|-------------|------------------------------------------------|
+| MATH 31B    | Intregration and Infinite Series               |
+| MATH 32A    | Calculus of Several Variables                  |
+| MATH 32B    | Calculus of Several Variables                  |
+| MATH 33A    | Linear Algebra and Applications                |
+| COM SCI 31  | Introduction to Computer Science with C++      |
+| STATS 15    | Introduction to Data Science                   |
+| STATS 20    | Statistical Programming with R                 |
+| STATS 21    | Python and Other Technologies for Data Science |
+| STATS 100A  | Probability                                    |
+| STATS 100B  | Mathematical Statistics                        |
+| STATS 100C  | Linear Models                                  |
+| STATS 101A  | Data Analysis and Regression                   |
+| STATS 101B  | Design and Analysis of Experiment              |
+| STATS 101C  | Statistical Models and Data Mining             |
+| STATS 102A  | Computational Statistics with R                |
+| STATS 102B  | Computation and Optimization for Statistics    |
+| STATS 112   | Statistics: Window to Understanding Diversity  |
+| STATS 140XP | Practice of Statistical Consulting             |
+| STATS 141XP | Practice of Statistical Consulting             |
